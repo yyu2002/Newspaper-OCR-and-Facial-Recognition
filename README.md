@@ -1,1 +1,4 @@
 # Newspaper-OCR-and-Facial-Recognition
+In this project, we take a ZIP file of images and process them, using the zipfile, PIL, pytesseract, and cv2 libraries. The files in the ZIP file we provide are newspaper images. Throughout the project, we search through the images looking for the occurrences of keywords and faces using optical character recognition, facial detection, and image composition. E.g. if you search for "pizza" it will return a contact sheet of all of the faces which were located on the newspaper page which mentions "pizza".
+
+Each page of the newspapers is saved as a single PNG image in a file called images.zip. These newspapers are in english, and contain a variety of stories, advertisements and images.
