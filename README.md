@@ -12,5 +12,5 @@ Each page of the newspapers is saved as a single PNG image in a file called imag
 
 `git pull/push`
 
-## Notes 
+## Side Notes 
 The Jupyter Notebook file is quite large (over 30 mb), and may take a minute to load and render. 
