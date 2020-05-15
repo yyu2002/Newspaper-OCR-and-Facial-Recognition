@@ -6,8 +6,8 @@ Each page of the newspapers is saved as a single PNG image in a file called imag
 ## To add repository for contributors
 `git clone https://github.com/yyu2002/Newspaper-OCR-and-Facial-Recognition`
 
-'git remote add origin https://github.com/yyu2002/Newspaper-OCR-and-Facial-Recognition'
+`git remote add origin https://github.com/yyu2002/Newspaper-OCR-and-Facial-Recognition`
 
-'git remote -v'
+`git remote -v`
 
-'git pull/push'
+`git pull/push`
