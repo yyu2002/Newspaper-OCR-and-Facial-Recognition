@@ -3,8 +3,12 @@ In this project, we take a ZIP file of images and process them, using the zipfil
 
 Each page of the newspapers is saved as a single PNG image in a file called images.zip. These newspapers are in english, and contain a variety of stories, advertisements and images.
 
+I run the code on two zip files, one small one and one large one. Unfortunately I couldn't attach the large zip to this repository.
+
 ## Important Notes 
 The Jupyter Notebook files are quite large (30 mb and 85 mb), and may take a minute to load and render. Once in a while, there's problems opening the Jupyter Notebook on github for some reason, but that's out of my control.
+
+I couldn't attach the large zip file to this repository, unfortunately, however the Jupyter Notebook and results are in the repository. 
 
 ## To add repository for contributors
 `git clone https://github.com/yyu2002/Newspaper-OCR-and-Facial-Recognition`
